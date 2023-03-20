@@ -20,7 +20,7 @@ Here are some of the technologies and tools that I'm proficient in:
 Here are some of the projects that I've worked on:
 
 - [PowerShell Script Library](https://github.com/Paul1404/powershell-wincore) - A collection of PowerShell scripts that I've written to automate various tasks.
-- [Linux Configuration Files]([https://github.com/paulconfigs/linux-configs](https://github.com/Paul1404/powershell-wincore)) - A repository of configuration files for various Linux tools and applications.
+- [Linux Configuration Files](https://github.com/Paul1404/powershell-wincore) - A repository of configuration files for various Linux tools and applications.
 - [Docker-Compose Examples](https://github.com/paulcompose/docker-examples) - A collection of Docker-compose examples that I've created for various projects.
 
 ## Contact
