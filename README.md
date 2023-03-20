@@ -21,7 +21,7 @@ Here are some of the projects that I've worked on:
 
 - [PowerShell Script Library](https://github.com/Paul1404/powershell-wincore) - A collection of PowerShell scripts that I've written to automate various tasks.
 - [Linux Configuration Files](https://github.com/Paul1404/bash-scripts) - A repository of configuration files for various Linux tools and applications.
-- [Docker-Compose Examples](https://github.com/paulcompose/docker-examples) - A collection of Docker-compose examples that I've created for various projects.
+- [Docker-Compose Examples](https://github.com/Paul1404/docker) - A collection of Docker-compose examples that I've created for various projects.
 
 ## Contact
 
