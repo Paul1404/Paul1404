@@ -1,4 +1,4 @@
-Hi there! My name is Paul, and I'm a 17-year-old sysadmin who loves working with PowerShell scripting, Linux, and Docker-compose. Here's a little bit more about me:
+Hi there! My name is Paul, and I'm a 18-year-old sysadmin who loves working with PowerShell scripting, Linux, and Docker-compose. Here's a little bit more about me:
 
 - 🔭 I’m currently working on honing my scripting skills and improving my knowledge of Linux and Docker.
 - 🌱 I’m always learning and trying to expand my skillset.
