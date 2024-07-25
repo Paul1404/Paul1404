@@ -2,7 +2,7 @@ Hi there! My name is Paul, and I'm a 18-year-old sysadmin who loves working with
 
 - 🔭 I’m currently working on honing my scripting skills and improving my knowledge of Linux and Docker.
 - 🌱 I’m always learning and trying to expand my skillset.
-- 💬 If you have any questions or just want to chat about PowerShell, Linux, or anything tech-related, feel free to reach out to me at github@untereuerheim.com.
+- 💬 If you have any questions or just want to chat about PowerShell, Linux, or anything tech-related, feel free to reach out to me at github@pd-portfolio.net
 
 ## Skills
 
