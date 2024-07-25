@@ -37,4 +37,4 @@ Here are some of the projects that I've worked on:
 
 ## Contact
 
-If you have any questions or just want to chat, feel free to reach out to me at github@untereuerheim.com. Thanks for stopping by!
+If you have any questions or just want to chat, feel free to reach out to me at github@pd-portfolio.net Thanks for stopping by!
