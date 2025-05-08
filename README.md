@@ -12,7 +12,7 @@ I enjoy managing and automating complex systems, running a sophisticated homelab
 - Managing Red Hat Enterprise Linux 9.5 VMs and Satellite for lifecycle and configuration management
 - Automating deployments using Cloud-init for scalable and repeatable setups
 - Designing and maintaining Hyper-Converged Infrastructure (HCI) with VMware vSAN and vSphere in my homelab
-- Holding RHCSA certification and continuously expanding my Linux and infrastructure skills
+- Holding [RHCSA certification](https://www.credly.com/badges/d59d68a6-4688-4178-8d9e-002abb5d39e0) and continuously expanding my Linux and infrastructure skills 
 
 ---
 
