@@ -1,35 +1,68 @@
-Hi there! My name is Paul, and I'm a 19-year-old sysadmin who loves working with PowerShell scripting, Linux, and Docker-compose. Here's a little bit more about me:
+# Hi, I'm Paul 👋
 
-- 🔭 I’m currently working on honing my scripting skills and improving my knowledge of Linux and Docker.
-- 🌱 I’m always learning and trying to expand my skillset.
-- 💬 If you have any questions or just want to chat about PowerShell, Linux, or anything tech-related, feel free to reach out to me at paul.dresch@untereuerheim.com
+## Systems Engineer | Linux and HCI Infrastructure | Enterprise Homelab Enthusiast
 
-## Skills
+I’m a Systems Engineer specializing in Linux infrastructure with a strong focus on enterprise environments. 
+I enjoy managing and automating complex systems, running a sophisticated homelab that mirrors enterprise-grade infrastructure.
 
-Here are some of the technologies and tools that I'm proficient in:
+---
 
-- PowerShell scripting
-- Linux
-- Docker-compose
-- Git
-- Active Directory
-- Cloud computing platforms (such as AWS and Azure)
+### 🔭 Current Focus & Expertise
 
-## Github Stats / Trophys
+- Managing Red Hat Enterprise Linux 9.5 VMs and Satellite for lifecycle and configuration management
+- Automating deployments using Cloud-init for scalable and repeatable setups
+- Designing and maintaining Hyper-Converged Infrastructure (HCI) with VMware vSAN and vSphere in my homelab
+- Holding RHCSA certification and continuously expanding my Linux and infrastructure skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul1404&show_icons=true&locale=en&layout=compact" alt="paul1404" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul1404&show_icons=true&locale=en" alt="paul1404" /></p>
+### 💼 Contributions
 
+- Contributed to the **Technitium Server** project by improving the installation script, enhancing icu package edge case. https://github.com/TechnitiumSoftware/DnsServer/pull/1248
 
-## Languages and Tools:
+---
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Technologies & Tools
 
-## Certs:
+<p align="left">
+  <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" />
+  </a>
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/355370/vmware.svg" alt="vmware" width="40" height="40" />
+  </a>
+  <a href="https://cloudinit.io/" target="_blank" rel="noreferrer">
+    <img src="https://cloud-init.github.io/images/cloud-init-orange.svg" alt="cloud-init" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  </a>
+</p>
 
-<img src="https://github.com/user-attachments/assets/b5be31c1-f381-4e92-8a67-06ee212a442a" width="300" height="200" title="Ray Romano saying What do you think?" alt="Ray Romano saying What do you think?"/>
+---
 
-## Contact
+### 📊 GitHub Stats
 
-If you have any questions or just want to chat, feel free to reach out to me at paul.dresch@untereuerheim.com Thanks for stopping by!
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=paul1404&show_icons=true&locale=en&theme=dark" alt="Paul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul1404&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact & Portfolio
+
+Feel free to reach out or check out my portfolio website for more about my work and projects:
+
+[paul.dresch@untereuerheim.com](mailto:paul.dresch@untereuerheim.com)  
+[Portfolio Website](https://pd-portfolio.net)
+
+---
+
+*Thanks for visiting my profile!*
