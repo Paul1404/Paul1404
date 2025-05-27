@@ -7,12 +7,50 @@ I enjoy managing and automating complex systems, running a sophisticated homelab
 
 ---
 
-### 🔭 Current Focus & Expertise
+### 🔭 Current Homelab Stuff
 
-- Managing Red Hat Enterprise Linux 9.5 VMs and Satellite for lifecycle and configuration management
-- Automating deployments using Cloud-init for scalable and repeatable setups
-- Designing and maintaining Hyper-Converged Infrastructure (HCI) with VMware vSAN and vSphere in my homelab
-- Holding [RHCSA certification](https://www.credly.com/badges/d59d68a6-4688-4178-8d9e-002abb5d39e0) and continuously expanding my Linux and infrastructure skills 
+My homelab is a hands-on playground that closely mirrors enterprise infrastructure.  
+It’s been a challenging but rewarding journey—setting up, integrating, and automating all these systems has taught me a lot about troubleshooting, resilience, and real-world IT.
+
+#### **Core Hardware**
+- **vSphere Cluster:**  
+  - 3× Dell R340  
+  - 1× Dell R440  
+  - **Total:** ~150 GHz CPU, 500 GB RAM, 4 TB vSAN ESA storage
+  - 3x Huawei Fusion Server 1288H on Standby
+- **Lights Out Management:**  
+  - Dell iDRAC9 and OpenManage Enterprise for remote server control
+
+#### **Virtualization & OS**
+- **VMware vSphere** with vSAN ESA for hyper-converged storage
+- **10+ Red Hat Enterprise Linux 9.5 VMs**  
+  - Lifecycle and config managed by **Red Hat Satellite 6**
+- **Cloud-init** for automated, repeatable VM deployments
+- **vRealize Operations for Logs** for ESXi and vCenter Logging
+
+#### **Networking**
+- **PA-820** Next-Gen Firewall
+- **MikroTik SwOS** (CSS326 & CSS610) managed switches
+- **Arista DCS-7010T48** ToR Switch
+- **Brocade VDX6740** 40 & 10G Interconnect for Inner-Rack DAC
+- **PHPipam** for IP address management
+
+#### **Containerization & Orchestration**
+- **Docker hosts** running 50+ containers across 20 Compose stacks
+- **Portainer EE** for container management
+- **Traefik** as ingress controller and reverse proxy
+- **Zitadel** for authentication
+- **All HTTPS traffic signed by a private PKI** using **HashiCorp Vault**
+
+#### **Monitoring & Observability**
+- **Checkmk** for infrastructure monitoring
+- **Prometheus, Grafana, Jaeger** for metrics, dashboards, and tracing
+
+#### **Self-Hosted Apps**
+- **Technitium DNS Server** (primary & secondary)
+- **Vaultwarden** (self-hosted Bitwarden)
+- **Planka, Wallos, IT-Tools, PWPusher**
+- **GitLab** for code and CI/CD
 
 ---
 
@@ -53,6 +91,11 @@ I enjoy managing and automating complex systems, running a sophisticated homelab
   <img src="https://github-readme-stats.vercel.app/api?username=paul1404&show_icons=true&locale=en&theme=dark" alt="Paul's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul1404&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+### Certs
+
+
+[Red Hat Certified System Administrator | EX200](https://www.credly.com/badges/d59d68a6-4688-4178-8d9e-002abb5d39e0)
 
 ---
 
