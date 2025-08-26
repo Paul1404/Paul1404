@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-**2005 • Bavaria, Germany • Always trying to run things enterprise 😅**
+**2005 • Bavaria, Germany • Always trying to run things enterprise ✨**
 
 ## Systems Engineer | Linux and HCI Infrastructure | Enterprise Homelab Enthusiast
 
@@ -10,13 +10,13 @@ I'm a Systems Engineer specializing in Virtualized infrastructure with a strong 
 
 ## 🔭 Current Homelab Stuff
 
-My homelab is a hands-on playground that closely mirrors enterprise infrastructure. It's been a challenging but rewarding journey—setting up, integrating, and automating all these systems has taught me a lot about troubleshooting, resilience, and real-world IT.
+My home(lab) DC is a hands-on playground that closely mirrors enterprise infrastructure. It's been a challenging but rewarding journey—setting up, integrating, and automating all these systems has taught me a lot about troubleshooting, resilience, and real-world IT.
 
 ### Core Hardware
 **vSphere Cluster:**
-- 3× Dell R340
-- 1× Dell R440
-- **Total:** ~150 GHz CPU, 500 GB RAM, 4 TB vSAN ESA storage
+- 4× Dell Poweredge R340
+- 1× Dell Poweredge R440
+- **Total (Compute + Storage) :** ~150 GHz Intel Xeon Gold , 700 GB RAM, 6 TB vSAN ESA - All Flash storage
 - 3× Huawei Fusion Server 1288H on Standby
 
 **Lights Out Management:**
@@ -51,7 +51,7 @@ My homelab is a hands-on playground that closely mirrors enterprise infrastructu
 - **Technitium DNS Server** (primary & secondary)
 - **Vaultwarden** (self-hosted Bitwarden)
 - **Planka, Wallos, IT-Tools, PWPusher**
-- **GitLab** for code and CI/CD
+- **Dockerized GitLab EE** for code and CI/CD
 
 ---
 
