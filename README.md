@@ -9,6 +9,12 @@ I'm a Systems Engineer specializing in virtualized infrastructure with a strong 
 I enjoy designing and automating complex systems, and I run a sophisticated homelab that mirrors enterprise-grade infrastructure
 a rewarding hands-on playground for learning resilience, troubleshooting, and real-world infrastructure challenges.
 
+![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ---
 
 ## Homelab Infrastructure
@@ -117,15 +123,6 @@ a rewarding hands-on playground for learning resilience, troubleshooting, and re
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   </a>
 </div>
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paul1404&show_icons=true&locale=en&theme=dark" alt="Paul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul1404&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 
