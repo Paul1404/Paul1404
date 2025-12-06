@@ -11,7 +11,6 @@ a rewarding hands-on playground for learning resilience, troubleshooting, and re
 
 ![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
