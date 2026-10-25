@@ -22,9 +22,7 @@ Outside work, I build and operate software for responsibilities I know firsthand
 
 ![Linux, Kubernetes, Docker, Ansible, Terraform, Bash, AWS and Cloudflare](https://skillicons.dev/icons?i=linux,kubernetes,docker,ansible,terraform,bash,aws,cloudflare&perline=8)
 
-<img src="assets/icons/rancher.svg" width="48" height="48" alt="Rancher" title="Rancher"> <img src="assets/icons/harvester.svg" width="48" height="48" alt="SUSE Harvester" title="SUSE Harvester"> <img src="assets/icons/keycloak.svg" width="48" height="48" alt="Keycloak" title="Keycloak"> <img src="assets/icons/helm.svg" width="48" height="48" alt="Helm" title="Helm">
-
-<img src="assets/icons/hpe-synergy.svg" width="48" height="48" alt="HPE Synergy" title="HPE Synergy"> <img src="assets/icons/dell-openmanage.svg" width="48" height="48" alt="Dell OpenManage" title="Dell OpenManage"> <img src="assets/icons/vcenter.svg" width="48" height="48" alt="VMware vCenter" title="VMware vCenter"> <img src="assets/icons/vsphere.svg" width="48" height="48" alt="VMware vSphere" title="VMware vSphere"> <img src="assets/icons/aria.svg" width="48" height="48" alt="VMware Aria stack" title="VMware Aria stack">
+![Rancher, Harvester, Keycloak, Helm, HPE Synergy, Dell OpenManage, VMware vCenter, vSphere and Aria](assets/icons/infrastructure.svg)
 
 SLES, RHEL, SUSE Virtualization / Harvester, KVM, networking, and service operations.
 
