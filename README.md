@@ -8,10 +8,13 @@ I'm also a member of **SUSE's Customer Advisory Board**, contributing customer f
 
 Outside work, I build and operate software for responsibilities I know firsthand: running clubs, managing finances, and keeping services working. I stay involved after people start relying on it.
 
-### Certifications
+### Certifications and advisory work
 
-![SUSE Certified Administrator in SLES 16](https://img.shields.io/badge/SCA-SLES%2016-30BA78?logo=suse&logoColor=white)
-![Red Hat Certified System Administrator in RHEL 9](https://img.shields.io/badge/RHCSA-RHEL%209-EE0000?logo=redhat&logoColor=white)
+![SUSE Certified Administrator in SLES 16](https://img.shields.io/badge/SCA-SLES%2016-30BA78?style=for-the-badge&logo=suse&logoColor=30BA78&labelColor=0C322C)
+![Red Hat Certified System Administrator in RHEL 9](https://img.shields.io/badge/RHCSA-RHEL%209-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=300909)
+
+![SUSE Customer Advisory Board member](https://img.shields.io/badge/SUSE%20CAB-Member-30BA78?style=for-the-badge&logo=suse&logoColor=30BA78&labelColor=0C322C)
+![SUSECON 2026 speaker](https://img.shields.io/badge/SUSECON%202026-Speaker-30BA78?style=for-the-badge&logo=suse&logoColor=30BA78&labelColor=0C322C)
 
 ### Infrastructure and operations
 
