@@ -20,9 +20,7 @@ Outside work, I build and operate software for responsibilities I know firsthand
 
 ### Infrastructure and operations
 
-![Linux, Kubernetes, Docker, Ansible, Terraform, Bash, AWS and Cloudflare](https://skillicons.dev/icons?i=linux,kubernetes,docker,ansible,terraform,bash,aws,cloudflare&perline=8)
-
-![Rancher, Harvester, Keycloak, Helm, HPE Synergy, Dell OpenManage, VMware vCenter, vSphere and Aria](assets/icons/infrastructure.svg)
+![Linux, Kubernetes, Docker, Ansible, Terraform, Bash, AWS, Cloudflare, Rancher, Harvester, Keycloak, Helm, HPE Synergy, Dell OpenManage, VMware vCenter, vSphere and Aria](assets/icons/infrastructure.svg)
 
 SLES, RHEL, SUSE Virtualization / Harvester, KVM, networking, and service operations.
 
