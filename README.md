@@ -41,6 +41,6 @@ TanStack Start, Router, Query, Form and Table, Better Auth, Drizzle, Railway, an
 ![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-[Earlier chapter: the homelab phase](docs/homelab.md)
-
-[Email](mailto:paul.dresch@untereuerheim.com) / [LinkedIn](https://www.linkedin.com/in/paul-dresch-671b10274/)
+[![Homelab archive](https://img.shields.io/badge/Homelab_archive-334155?style=for-the-badge)](docs/homelab.md)
+[![Email](https://img.shields.io/badge/Email-0C322C?style=for-the-badge)](mailto:paul.dresch@untereuerheim.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/paul-dresch-671b10274/)
