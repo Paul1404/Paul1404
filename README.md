@@ -38,10 +38,10 @@ TanStack Start, Router, Query, Form and Table, Better Auth, Drizzle, Railway, an
 
 ### On GitHub
 
-![GitHub activity overview](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![GitHub activity overview](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GitHub activity overview](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg?v=2#gh-dark-mode-only)
+![GitHub activity overview](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/overview.svg?v=2#gh-light-mode-only)
+![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg?v=2#gh-dark-mode-only)
+![GitHub language statistics](https://raw.githubusercontent.com/Paul1404/github-stats/master/generated/languages.svg?v=2#gh-light-mode-only)
 
 [![Homelab archive](https://img.shields.io/badge/Homelab_archive-334155?style=for-the-badge)](docs/homelab.md)
 [![Email](https://img.shields.io/badge/Email-0C322C?style=for-the-badge)](mailto:paul.dresch@untereuerheim.com)
