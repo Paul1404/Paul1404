@@ -4,6 +4,8 @@
 
 That includes moving from VMware to open infrastructure, automating provisioning, and building tools for the people operating it. I spoke about that work at **SUSECON 2026**. SUSE also covered the wider platform in its [FIS-ASP customer story](https://www.suse.com/success/fis-asp/).
 
+I'm also a member of **SUSE's Customer Advisory Board**, contributing customer feedback on support.
+
 Outside work, I build and operate software for responsibilities I know firsthand: running clubs, managing finances, and keeping services working. I stay involved after people start relying on it.
 
 ### Certifications
