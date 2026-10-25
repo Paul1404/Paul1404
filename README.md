@@ -2,7 +2,9 @@
 
 21, based in Bavaria. I work on Linux and SUSE virtualization at **FIS-ASP**, combining hands-on engineering with platform ownership and responsibility for day-to-day operations.
 
-That includes moving from VMware to open infrastructure, automating provisioning, and building tools for the people operating it. I spoke about that work at **SUSECON 2026**. SUSE also covered the wider platform in its [FIS-ASP customer story](https://www.suse.com/success/fis-asp/).
+That includes moving from VMware to open infrastructure, automating provisioning, and building tools for the people operating it. I spoke about that work at **SUSECON 2026**.
+
+[![SUSE customer story: FIS-ASP](https://img.shields.io/badge/SUSE%20Customer%20Story-FIS--ASP-30BA78?style=for-the-badge&logo=suse&logoColor=30BA78&labelColor=0C322C)](https://www.suse.com/success/fis-asp/)
 
 I'm also a member of **SUSE's Customer Advisory Board**, contributing customer feedback on support.
 
