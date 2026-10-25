@@ -22,13 +22,27 @@ Outside work, I build and operate software for responsibilities I know firsthand
 
 ![Linux, Kubernetes, Docker, Ansible, Terraform, Bash, AWS and Cloudflare](https://skillicons.dev/icons?i=linux,kubernetes,docker,ansible,terraform,bash,aws,cloudflare&perline=8)
 
-SLES, RHEL, SUSE Virtualization / Harvester, KVM, Rancher, VMware, networking, and service operations.
+![Rancher](https://img.shields.io/badge/Rancher-2453FF?logo=rancher&logoColor=white&labelColor=242938)
+![SUSE Harvester](https://img.shields.io/badge/Harvester-30BA78?logo=suse&logoColor=white&labelColor=242938)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D9CB4?logo=keycloak&logoColor=white&labelColor=242938)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&labelColor=242938)
+
+![HPE Synergy](https://img.shields.io/badge/HPE-Synergy-01A982?labelColor=242938)
+![HPE iLO](https://img.shields.io/badge/HPE-iLO-01A982?labelColor=242938)
+![Dell iDRAC](https://img.shields.io/badge/Dell-iDRAC-007DB8?logo=dell&logoColor=white&labelColor=242938)
+![Dell OpenManage](https://img.shields.io/badge/Dell-OpenManage-007DB8?logo=dell&logoColor=white&labelColor=242938)
+
+![VMware vCenter](https://img.shields.io/badge/VMware-vCenter-607078?logo=vmware&logoColor=white&labelColor=242938)
+![VMware vSphere](https://img.shields.io/badge/VMware-vSphere-607078?logo=vmware&logoColor=white&labelColor=242938)
+![VMware Aria stack](https://img.shields.io/badge/VMware-Aria_stack-607078?logo=vmware&logoColor=white&labelColor=242938)
+
+SLES, RHEL, SUSE Virtualization / Harvester, KVM, networking, and service operations.
 
 ### Software and tooling
 
 ![TypeScript, JavaScript, React, Bun, Node.js, PostgreSQL, Python and Go](https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,postgres,py,go&perline=8)
 
-![Git, GitHub, GitHub Actions and Nginx](https://skillicons.dev/icons?i=git,github,githubactions,nginx&perline=8)
+![Git, GitHub, GitLab, GitHub Actions, Nginx and Redis](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nginx,redis&perline=8)
 
 ![TanStack](https://img.shields.io/badge/TanStack-111827?logo=tanstack&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-111827?logo=drizzle&logoColor=C5F74F)
