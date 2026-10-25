@@ -4,7 +4,7 @@ These tiles adapt existing brand artwork to the 48px dark rounded tile used by
 the profile. Synergy and OpenManage use vendor artwork with a product label. VMware tiles
 use distinct product artwork rather than the VMware wordmark.
 
-- Rancher, Keycloak, Helm and Dell: [Simple Icons](https://github.com/simple-icons/simple-icons), CC0. Original paths preserved, tile backgrounds and colors added.
+- Rancher, Helm and Dell: [Simple Icons](https://github.com/simple-icons/simple-icons), CC0. Original paths preserved, tile backgrounds and colors added.
 - Harvester: [Harvester Dashboard icon](https://github.com/harvester/dashboard/blob/master/pkg/harvester-manager/icon.svg), Apache-2.0. Original path preserved, color and tile background added.
 - HPE: [Grommet Icons](https://github.com/grommet/grommet-icons/blob/master/public/img/hpe.svg), Apache-2.0. Original path preserved, tile background and Synergy label added.
 

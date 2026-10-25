@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ICONS = ROOT / 'assets/icons'
 ORDER = (
     'linux', 'kubernetes', 'docker', 'ansible', 'terraform', 'bash', 'aws', 'cloudflare',
-    'rancher', 'harvester', 'keycloak', 'helm', 'hpe-synergy', 'dell-openmanage',
+    'rancher', 'harvester', 'helm', 'hpe-synergy', 'dell-openmanage',
     'vcenter', 'vsphere', 'aria',
 )
 ET.register_namespace('', 'http://www.w3.org/2000/svg')
