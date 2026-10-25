@@ -22,19 +22,9 @@ Outside work, I build and operate software for responsibilities I know firsthand
 
 ![Linux, Kubernetes, Docker, Ansible, Terraform, Bash, AWS and Cloudflare](https://skillicons.dev/icons?i=linux,kubernetes,docker,ansible,terraform,bash,aws,cloudflare&perline=8)
 
-![Rancher](https://img.shields.io/badge/Rancher-2453FF?logo=rancher&logoColor=white&labelColor=242938)
-![SUSE Harvester](https://img.shields.io/badge/Harvester-30BA78?logo=suse&logoColor=white&labelColor=242938)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D9CB4?logo=keycloak&logoColor=white&labelColor=242938)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&labelColor=242938)
+<img src="assets/icons/rancher.svg" width="48" height="48" alt="Rancher" title="Rancher"> <img src="assets/icons/harvester.svg" width="48" height="48" alt="SUSE Harvester" title="SUSE Harvester"> <img src="assets/icons/keycloak.svg" width="48" height="48" alt="Keycloak" title="Keycloak"> <img src="assets/icons/helm.svg" width="48" height="48" alt="Helm" title="Helm">
 
-![HPE Synergy](https://img.shields.io/badge/HPE-Synergy-01A982?labelColor=242938)
-![HPE iLO](https://img.shields.io/badge/HPE-iLO-01A982?labelColor=242938)
-![Dell iDRAC](https://img.shields.io/badge/Dell-iDRAC-007DB8?logo=dell&logoColor=white&labelColor=242938)
-![Dell OpenManage](https://img.shields.io/badge/Dell-OpenManage-007DB8?logo=dell&logoColor=white&labelColor=242938)
-
-![VMware vCenter](https://img.shields.io/badge/VMware-vCenter-607078?logo=vmware&logoColor=white&labelColor=242938)
-![VMware vSphere](https://img.shields.io/badge/VMware-vSphere-607078?logo=vmware&logoColor=white&labelColor=242938)
-![VMware Aria stack](https://img.shields.io/badge/VMware-Aria_stack-607078?logo=vmware&logoColor=white&labelColor=242938)
+<img src="assets/icons/hpe-synergy.svg" width="48" height="48" alt="HPE Synergy" title="HPE Synergy"> <img src="assets/icons/dell-openmanage.svg" width="48" height="48" alt="Dell OpenManage" title="Dell OpenManage"> <img src="assets/icons/vcenter.svg" width="48" height="48" alt="VMware vCenter" title="VMware vCenter"> <img src="assets/icons/vsphere.svg" width="48" height="48" alt="VMware vSphere" title="VMware vSphere"> <img src="assets/icons/aria.svg" width="48" height="48" alt="VMware Aria stack" title="VMware Aria stack">
 
 SLES, RHEL, SUSE Virtualization / Harvester, KVM, networking, and service operations.
 
